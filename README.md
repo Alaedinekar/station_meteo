@@ -11,7 +11,7 @@ L'ajout d'une application bureau est aussi débattu en interne.
 
 Le projet se trouve actuellement sur https://valentinbordy.fr/iotMeteo/ et est pleinement fonctionnel.
 
-Si vous souhaitez le déployer sur heroku voici la doc : https://github.com/BordyV/ProjetIOTMeteoDeplHeroku ( sans la partie script broker comme parlé par avec vous par message ).
+
 
 Si vous souhaitez le lancer en local, n'oubliez pas de vérifier les connections aux bases de données dans ./ApiMeteo/config/dbConfig.js
 
